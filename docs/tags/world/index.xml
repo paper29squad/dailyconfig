@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>world on I am jack&#39;s wasted life</title>
-    <link>http://example.org/tags/world/</link>
+    <link>https://paper29squad.github.io/dailyconfig/tags/world/</link>
     <description>Recent content in world on I am jack&#39;s wasted life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 23 Oct 2021 21:46:50 +0900</lastBuildDate><atom:link href="http://example.org/tags/world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Oct 2021 21:46:50 +0900</lastBuildDate><atom:link href="https://paper29squad.github.io/dailyconfig/tags/world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
-      <link>http://example.org/posts/my-second-post/</link>
+      <link>https://paper29squad.github.io/dailyconfig/posts/my-second-post/</link>
       <pubDate>Sat, 23 Oct 2021 21:46:50 +0900</pubDate>
       
-      <guid>http://example.org/posts/my-second-post/</guid>
+      <guid>https://paper29squad.github.io/dailyconfig/posts/my-second-post/</guid>
       <description>この場所でも自動的に反映されるのでしょうか リロードしないでも反映を確認できるのが便利ですね どこからでも書いて更新できるのと import json def lambda_handler(event, context): # TODO implement return</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/</link>
+      <link>https://paper29squad.github.io/dailyconfig/posts/</link>
       <pubDate>Sat, 23 Oct 2021 20:52:32 +0900</pubDate>
       
-      <guid>http://example.org/posts/</guid>
+      <guid>https://paper29squad.github.io/dailyconfig/posts/</guid>
       <description>My Second Post My Second Post My First Post こんにちは世界 考え事をしながら文章を書いている Markdownを簡単にするエディタがあればいいと思った しかしながら この場所</description>
     </item>
     

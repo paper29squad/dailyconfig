@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/hello/</loc>
+    <loc>https://paper29squad.github.io/dailyconfig/tags/hello/</loc>
     <lastmod>2021-10-23T21:46:50+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://paper29squad.github.io/dailyconfig/</loc>
     <lastmod>2021-10-23T21:46:50+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/me-going/</loc>
+    <loc>https://paper29squad.github.io/dailyconfig/posts/me-going/</loc>
     <lastmod>2021-10-23T21:46:50+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-second-post/</loc>
+    <loc>https://paper29squad.github.io/dailyconfig/posts/my-second-post/</loc>
     <lastmod>2021-10-23T21:46:50+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://paper29squad.github.io/dailyconfig/tags/</loc>
     <lastmod>2021-10-23T21:46:50+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/world/</loc>
+    <loc>https://paper29squad.github.io/dailyconfig/tags/world/</loc>
     <lastmod>2021-10-23T21:46:50+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://paper29squad.github.io/dailyconfig/posts/</loc>
     <lastmod>2021-10-23T20:52:32+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://paper29squad.github.io/dailyconfig/posts/my-first-post/</loc>
     <lastmod>2021-10-23T20:52:32+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://paper29squad.github.io/dailyconfig/categories/</loc>
   </url>
 </urlset>
