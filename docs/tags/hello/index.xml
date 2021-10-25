@@ -16,14 +16,5 @@
       <description>この場所でも自動的に反映されるのでしょうか リロードしないでも反映を確認できるのが便利ですね どこからでも書いて更新できるのと import json def lambda_handler(event, context): # TODO implement return</description>
     </item>
     
-    <item>
-      <title>My First Post</title>
-      <link>https://paper29squad.github.io/dailyconfig/posts/</link>
-      <pubDate>Sat, 23 Oct 2021 20:52:32 +0900</pubDate>
-      
-      <guid>https://paper29squad.github.io/dailyconfig/posts/</guid>
-      <description>My Second Post My Second Post My First Post こんにちは世界 考え事をしながら文章を書いている Markdownを簡単にするエディタがあればいいと思った しかしながら この場所</description>
-    </item>
-    
   </channel>
 </rss>
